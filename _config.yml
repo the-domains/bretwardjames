@@ -12,3 +12,5 @@ color:
     - '#5E5A59'
     - '#0D0D0D'
 name: bretwardjames
+opengraph:
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bf28e6e-ae7e-4f4d-b954-9a3f3d2b2edf.jpg'
