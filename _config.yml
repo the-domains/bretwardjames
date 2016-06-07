@@ -1,16 +1,16 @@
-layout_spectrum: 0.8049733524676412
+layout_spectrum: 0.14858042285777628
 typography_spectrum: 0.6573406057432294
 color:
-  brandStrength: 0.942190968664363
-  lightness: 0.766448191832751
-  saturation: 0.059108421904966235
-  rhythmicContrast: 0.7350131857674569
+  brandStrength: 0.025051030330359936
+  lightness: 0.5061814999207854
+  saturation: 0.42886049882508814
+  rhythmicContrast: 0.2735030874609947
   brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: bretwardjames
 opengraph:
   image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bf28e6e-ae7e-4f4d-b954-9a3f3d2b2edf.jpg'
